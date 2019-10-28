@@ -5,6 +5,8 @@ We present **Winglets** as a new technique to enhance the grouping perception in
 Below we demonstrate the POWER of the closure effect indicated by winglets. 
 To see the full paper, please access the link: [https://deardeer.github.io/pub/InfoVis19_Winglet.pdf](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Winglets with Different Orientations
 
 Here on the left, we see a scatterplot with four groups of color. 
