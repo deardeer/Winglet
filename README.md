@@ -4,7 +4,7 @@ We present **Winglets** as a new technique to enhance the grouping perception in
 
 ### Winglets 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/diff_orient.png)
 
 ### Enclosure v.s. Winglets
 ### Winglets in colorless scatterplot
