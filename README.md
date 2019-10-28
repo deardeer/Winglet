@@ -16,7 +16,9 @@ In the middle, we see two horizontal classes and two vertical classes in the rig
 
 This suggests the closure principle has a stronger perceptual affect than the similarity principle.
 
-![Different Oriented Winglets](https://github.com/deardeer/Winglet/blob/gh-pages/images/diff_orient.png)
+![Different Oriented Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/diff_orient.png)
+
 
 ### Winglets in Colorless Scatterplot
 
