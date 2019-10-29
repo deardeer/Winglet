@@ -1,9 +1,18 @@
 ## Welcome to Homepage of Winglets
 
+
+[<font size=4>Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots</font>](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)   
+<font face='微软雅黑' size = 3>**Min Lu**</font><font size = 3>, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang.</font>  
+<font size = 3>IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019)</font> 
+
+
+### Abstract
 We present **Winglets** as a new technique to enhance the grouping perception in multiclass scatterplot. Winglets are designed as the two-sided strokes attached to the dots in scatterplot. With the **Gestalt Principle of Closure**, the global association of points can be mentally completed by those local strokes. 
 
 Below we demonstrate the POWER of the closure effect indicated by winglets. 
-To see the full paper, please access the link: [https://deardeer.github.io/pub/InfoVis19_Winglet.pdf](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)
+<!-- To see the full paper, please access the link: [Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf) -->
+
+
 
 ### Winglets with Different Orientations
 
@@ -30,10 +39,23 @@ This is an extreme case, but it does show the power of winglet in cluster expres
 
 ### Enclosure v.s. Winglets
 
-![Enclosure and Winglets](
-https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png)
+<!-- ![Enclosure and Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png){:style='margin:100px'} -->
+<img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png' style='padding:20px'></img>
 
 Enclosing points with a boundary is a ‘hard’ visually design to associate points as a group. Points in the overlap regions remain ambiguous, we cannot tell which cluster the point belongs to. 
 
 With wings, the associating of groups are much softer. Even for dots in the overlapping region, with very short strokes, points can be easily associated with their cluster, and also in the way it reflects the uncertainty. 
+
+### Acknowledgement   
+We thank the reviewers for their valuable comments. This work is supported in parts by NSFC (61802265, 41671387, 61761146002, 61861130365), LHTD (20170003), Guangdong Provincial Natural Science Foundation (2018A030310426, 2015A030312015), and the National Engineering Laboratory for Big Data System Computing Technology.
+
+### Bibtex  
+@article{lu2019winglets,  
+title = {Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots},  
+author={Lu, Min and Wang, Shuaiqi and Lanir, Joel and Fish, Noa and Yue, Yang and Cohen-Or, Daniel and Huang, Hui},  
+journal={IEEE transactions on visualization and computer graphics},  
+pages = {1 - 1},   
+year={2019}  
+}
 
