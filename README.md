@@ -3,9 +3,9 @@
 We present **Winglets** as a new technique to enhance the grouping perception in multiclass scatterplot. Winglets are designed as the two-sided strokes attached to the dots in scatterplot. With the **Gestalt Principle of Closure**, the global association of points can be mentally completed by those local strokes. 
 
 Below we demonstrate the POWER of the closure effect indicated by winglets.  
-Min Lu, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang. IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).   
+Min Lu, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang. IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019). 
 <a href='https://deardeer.github.io/pub/InfoVis19_Winglet.pdf'> 
- <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg' width='9%' height = '9%'></a>
+ <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg' width='10%' height = '10%'></a>
 <!-- To see the full paper, please access the link: [Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf) -->
 
 
