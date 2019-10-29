@@ -39,9 +39,9 @@ This is an extreme case, but it does show the power of winglet in cluster expres
 
 ### Enclosure v.s. Winglets
 
-<!-- ![Enclosure and Winglets](
-https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png){:style='margin:100px'} -->
-<img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png' style='padding-right:20px;'>
+![Enclosure and Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png){:style='margin:100px'}
+<!-- <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png' style='padding-right:20px;'> -->
 
 Enclosing points with a boundary is a ‘hard’ visually design to associate points as a group. Points in the overlap regions remain ambiguous, we cannot tell which cluster the point belongs to. 
 
