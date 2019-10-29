@@ -3,8 +3,9 @@
 We present **Winglets** as a new technique to enhance the grouping perception in multiclass scatterplot. Winglets are designed as the two-sided strokes attached to the dots in scatterplot. With the **Gestalt Principle of Closure**, the global association of points can be mentally completed by those local strokes. 
 
 Below we demonstrate the POWER of the closure effect indicated by winglets.  
-Min Lu, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang. IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019). 
-<img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg'>
+Min Lu, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang. IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).   
+<a href='https://deardeer.github.io/pub/InfoVis19_Winglet.pdf'> 
+ <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg' width='6%' height = '6%'></a>
 <!-- To see the full paper, please access the link: [Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf) -->
 
 
@@ -48,6 +49,7 @@ With wings, the associating of groups are much softer. Even for dots in the over
 We thank the reviewers for their valuable comments. This work is supported in parts by NSFC (61802265, 41671387, 61761146002, 61861130365), LHTD (20170003), Guangdong Provincial Natural Science Foundation (2018A030310426, 2015A030312015), and the National Engineering Laboratory for Big Data System Computing Technology.
 
 ### Bibtex  
+```
 @article{lu2019winglets,  
 title = {Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots},  
 author={Lu, Min and Wang, Shuaiqi and Lanir, Joel and Fish, Noa and Yue, Yang and Cohen-Or, Daniel and Huang, Hui},  
@@ -55,4 +57,5 @@ journal={IEEE transactions on visualization and computer graphics},
 pages = {1 - 1},   
 year={2019}  
 }
+```
 
