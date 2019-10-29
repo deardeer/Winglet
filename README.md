@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to Homepage of Winglets
 
 We present **Winglets** as a new technique to enhance the grouping perception in multiclass scatterplot. Winglets are designed as the two-sided strokes attached to the dots in scatterplot. With the **Gestalt Principle of Closure**, the global association of points can be mentally completed by those local strokes. 
@@ -34,3 +35,11 @@ With wings, the associating of groups are much softer. Even for dots in the over
 ![Enclosure and Winglets](https://github.com/deardeer/Winglet/blob/gh-pages/images/enclosure.png)
 
 
+=======
+# Winglets
+Homepage for Multiclass Scatterplot Visualization Technique, Winglets
+
+
+![Different Oriented Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/diff_orient.png)
+>>>>>>> 6e98f4878d5ca096d025a414f2125e24b1ce7320
