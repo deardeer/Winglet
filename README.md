@@ -5,8 +5,6 @@ We present **Winglets** as a new technique to enhance the grouping perception in
 Below we demonstrate the POWER of the closure effect indicated by winglets. 
 To see the full paper, please access the link: [https://deardeer.github.io/pub/InfoVis19_Winglet.pdf](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 ### Winglets with Different Orientations
 
 Here on the left, we see a scatterplot with four groups of color. 
@@ -27,7 +25,8 @@ Now we enhance it with winglets. Although they are overlapping and single color,
 
 This is an extreme case, but it does show the power of winglet in cluster expression, even in colorless case.
 
-![Single Colored Winglets](https://github.com/deardeer/Winglet/blob/gh-pages/images/single_color.png)
+![Single Colored Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/single_color.png)
 
 ### Enclosure v.s. Winglets
 
@@ -35,6 +34,7 @@ Enclosing points with a boundary is a ‘hard’ visually design to associate po
 
 With wings, the associating of groups are much softer. Even for dots in the overlapping region, with very short strokes, points can be easily associated with their cluster, and also in the way it reflects the uncertainty. 
 
-![Enclosure and Winglets](https://github.com/deardeer/Winglet/blob/gh-pages/images/enclosure.png)
+![Enclosure and Winglets](
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png)
 
 
