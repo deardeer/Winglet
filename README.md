@@ -2,8 +2,8 @@
 
 
 [<font size=4>Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots</font>](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)   
-<font face='微软雅黑' size = 3>**Min Lu**</font><font size = 3>, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang.</font>  
-<font size = 3>IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019)</font> 
+<font face='微软雅黑' size = '3'>**Min Lu**</font><font size = '3'>, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang.</font>  
+<font size = '3'>IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019)</font> 
 
 
 ### Abstract
@@ -40,8 +40,10 @@ This is an extreme case, but it does show the power of winglet in cluster expres
 ### Enclosure v.s. Winglets
 
 <!-- ![Enclosure and Winglets](
-https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png){:style='margin:100px'} -->
-<img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png' style='padding-right:20px;padding-bottom:20px;padding-left:20px;'>
+https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png){width='90%' height='90%'} -->
+<div align='center'>
+<img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/enclosure.png' width='90%' height='90%'>
+</div>
 
 Enclosing points with a boundary is a ‘hard’ visually design to associate points as a group. Points in the overlap regions remain ambiguous, we cannot tell which cluster the point belongs to. 
 
