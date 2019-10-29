@@ -4,7 +4,7 @@ We present **Winglets** as a new technique to enhance the grouping perception in
 
 Below we demonstrate the POWER of the closure effect indicated by winglets. Min Lu, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang. IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).
 <a href='https://deardeer.github.io/pub/InfoVis19_Winglet.pdf'> 
- <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg' width='3%' height = '3%'></a>
+ <img src = 'https://raw.githubusercontent.com/deardeer/Winglets/gh-pages/images/pdf.jpeg' width='3%' height = '3%' style='margin-top:5px'></a>
 <!-- To see the full paper, please access the link: [Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf) -->
 
 
