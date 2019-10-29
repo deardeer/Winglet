@@ -1,9 +1,9 @@
 ## Welcome to Homepage of Winglets
 
 
-[<font size=4>Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots</font>](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)   
-<font face='微软雅黑' size = '3'>**Min Lu**</font><font size = '3'>, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang.</font>  
-<font size = '3'>IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019)</font> 
+[**Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots**](https://deardeer.github.io/pub/InfoVis19_Winglet.pdf)   
+**Min Lu**, Shuaiqi Wang, Joel Lanir, Noa Fish, Yue Yang and Cohen-Or Daniel and Hui Huang.  
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019)
 
 
 ### Abstract
